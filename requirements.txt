@@ -4,10 +4,10 @@ numpy==1.26.4
 scikit-learn==1.4.2
 xgboost==2.0.3
 joblib==1.3.2
-altair
-shap
-reportlab
+altair==5.0.1
+shap==0.42.1
+reportlab==4.0.0
 matplotlib==3.8.0
-
-
-
+setuptools>=82.0.0
+wheel>=0.46.3
+Cython>=3.2.4
